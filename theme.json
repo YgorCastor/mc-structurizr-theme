@@ -4,25 +4,25 @@
    "elements": [
       {
          "tag": "Elixir",
-         "icon": "",
+         "icon": "https://github.com/YgorCastor/mc-structurizr-theme/blob/6430bedafe011ccaabba010eb588f16a97f47464/static/elixir-logo.png",
          "stroke": "#070166",
          "color": "#250170"
       },
       {
          "tag": "Phoenix",
-         "icon": "",
+         "icon": "https://github.com/YgorCastor/mc-structurizr-theme/blob/6430bedafe011ccaabba010eb588f16a97f47464/static/phoenix-logo.png",
          "stroke": "#DB5E07",
          "color": "#F98F07"
       },
       {
          "tag": "OBAN",
-         "icon": "",
+         "icon": "https://github.com/YgorCastor/mc-structurizr-theme/blob/6430bedafe011ccaabba010eb588f16a97f47464/static/oban-logo.png",
          "stroke": "#41BF78",
          "color": "#3ED6AB"
       },
       {
          "tag": "Tailwind",
-         "icon": "",
+         "icon": "https://github.com/YgorCastor/mc-structurizr-theme/blob/6430bedafe011ccaabba010eb588f16a97f47464/static/tailwind-logo.png",
          "stroke": "#04C4D9",
          "color": "#079BF0"
       }
