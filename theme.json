@@ -1,0 +1,30 @@
+{
+   "name": "mychannels",
+   "description": "This theme include some element styles used at mychannels.",
+   "elements": [
+      {
+         "tag": "Elixir",
+         "icon": "",
+         "stroke": "#070166",
+         "color": "#250170"
+      },
+      {
+         "tag": "Phoenix",
+         "icon": "",
+         "stroke": "#DB5E07",
+         "color": "#F98F07"
+      },
+      {
+         "tag": "OBAN",
+         "icon": "",
+         "stroke": "#41BF78",
+         "color": "#3ED6AB"
+      },
+      {
+         "tag": "Tailwind",
+         "icon": "",
+         "stroke": "#04C4D9",
+         "color": "#079BF0"
+      }
+   ]
+}
