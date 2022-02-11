@@ -28,7 +28,7 @@
       },
       {
          "tag":"RavenDB",
-         "icon":"https://raw.githubusercontent.com/YgorCastor/mc-structurizr-theme/blob/6430bedafe011ccaabba010eb588f16a97f47464/static/tailwind-logo.png",
+         "icon":"https://raw.githubusercontent.com/YgorCastor/mc-structurizr-theme/master/static/ravendb-logo.png",
          "stroke":"#D69694",
          "color":"#BF8EA0"
       }
