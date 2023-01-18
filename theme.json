@@ -15,6 +15,12 @@
          "color":"#F98F07"
       },
       {
+         "tag":"RubyOnRails",
+         "icon":"https://raw.githubusercontent.com/YgorCastor/mc-structurizr-theme/master/static/phoenix-logo.png",
+         "stroke":"#DB5E07",
+         "color":"#F98F07"
+      },
+      {
          "tag":"OBAN",
          "icon":"https://raw.githubusercontent.com/YgorCastor/mc-structurizr-theme/master/static/oban-logo.png",
          "stroke":"#41BF78",
@@ -31,6 +37,18 @@
          "icon":"https://raw.githubusercontent.com/YgorCastor/mc-structurizr-theme/master/static/ravendb-logo.png",
          "stroke":"#D69694",
          "color":"#BF8EA0"
+      },
+      {
+         "tag":"Ash",
+         "icon":"https://raw.githubusercontent.com/YgorCastor/mc-structurizr-theme/master/static/ash-logo.png",
+         "stroke":"#F2AC57",
+         "color":"#F2884B"
+      },
+      {
+         "tag":"OmnyStudio",
+         "icon":"https://raw.githubusercontent.com/YgorCastor/mc-structurizr-theme/master/static/omnystudio-logo.png",
+         "stroke":"#6A3FA6",
+         "color":"#5317A6"
       }
    ]
 }
